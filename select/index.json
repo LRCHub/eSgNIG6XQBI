@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Imy - Breath of life (feat. 藍月なくる) Music Video【Making of Strings Recording】",
+  "base_artist": "Imy",
+  "createdAt": "2026-01-06T05:26:44.390126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "IMY :(",
+      "artist": "DC The Don",
+      "has_synced": false,
+      "path": "select/01_IMY__(_DC_The_Don.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "IMY",
+      "artist": "REAPER, Bella Renee",
+      "has_synced": true,
+      "path": "select/02_IMY_REAPER,_Bella_Renee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "IMY",
+      "artist": "Juto",
+      "has_synced": true,
+      "path": "select/03_IMY_Juto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "IMY",
+      "artist": "Dylan Sinclair",
+      "has_synced": true,
+      "path": "select/04_IMY_Dylan_Sinclair.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "IMY",
+      "artist": "Stract",
+      "has_synced": true,
+      "path": "select/05_IMY_Stract.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "imy",
+      "artist": "mil ataris por segundo",
+      "has_synced": false,
+      "path": "select/06_imy_mil_ataris_por_segundo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "imy",
+      "artist": "mdnght7",
+      "has_synced": false,
+      "path": "select/07_imy_mdnght7.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "IMY",
+      "artist": "Sinner Self",
+      "has_synced": false,
+      "path": "select/08_IMY_Sinner_Self.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Imy",
+      "artist": "Reaperbella Renee",
+      "has_synced": true,
+      "path": "select/09_Imy_Reaperbella_Renee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "imy",
+      "artist": "Kiryano",
+      "has_synced": true,
+      "path": "select/10_imy_Kiryano.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "IMY (feat. Bella Renee)",
+      "artist": "REAPER feat. Bella Renee",
+      "has_synced": true,
+      "path": "select/11_IMY_(feat._Bella_Renee)_REAPER_feat._Bella_Renee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "IMY (feat. Bella Renee)",
+      "artist": "Reaper",
+      "has_synced": true,
+      "path": "select/12_IMY_(feat._Bella_Renee)_Reaper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i h8 u but imy",
+      "artist": "Pity Party (Girls Club)",
+      "has_synced": false,
+      "path": "select/13_i_h8_u_but_imy_Pity_Party_(Girls_Club).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "09 - Imy (Miss You)",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/14_09_-_Imy_(Miss_You)_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "imy (feat. kill fall)",
+      "artist": "mdnght7",
+      "has_synced": false,
+      "path": "select/15_imy_(feat._kill_fall)_mdnght7.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Du Imy",
+      "artist": "Dav",
+      "has_synced": true,
+      "path": "select/16_Du_Imy_Dav.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "bust down chicken wing! (feat. IMY)",
+      "artist": "Lelenoflops",
+      "has_synced": true,
+      "path": "select/17_bust_down_chicken_wing!_(feat._IMY)_Lelenoflops.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "IMY (feat. Bella Renee)",
+      "artist": "REAPER, Bella Renee",
+      "has_synced": true,
+      "path": "select/18_IMY_(feat._Bella_Renee)_REAPER,_Bella_Renee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breath of life (feat. 藍月なくる)",
+      "artist": "Imy",
+      "has_synced": false,
+      "path": "select/pl_01_Breath_of_life_(feat._藍月なくる)_Imy.txt"
+    }
+  ]
+}
